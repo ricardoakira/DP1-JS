@@ -91,4 +91,7 @@
 // console.log("Posição da palavra 'ciência': "+texto.indexOf("ciência"))
 // console.log("Posição da palavra 'métodos': "+texto.indexOf("métodos"))
 
-
+// 9-
+// let numString = "8.75"
+// let numFloat = parseFloat(numString)
+// console.log(typeof numFloat)
