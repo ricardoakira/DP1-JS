@@ -75,11 +75,20 @@
 // }
 
 // 7-
-let nome = document.querySelector("#nome")
-nome.textContent = "Ricardo"
-let idade = document.querySelector("#idade")
-idade.textContent = "18"
-let curso = document.querySelector("#curso")
-curso.textContent = "Engenharia de Software"
-let ano = document.querySelector("#ano")
-ano.textContent = "2024"
+// let nome = document.querySelector("#nome")
+// nome.textContent = "Ricardo"
+// let idade = document.querySelector("#idade")
+// idade.textContent = "18"
+// let curso = document.querySelector("#curso")
+// curso.textContent = "Engenharia de Software"
+// let ano = document.querySelector("#ano")
+// ano.textContent = "2024"
+
+// 8-
+// let texto = "Tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas."
+// console.log("Primeira posição de 'um': "+texto.indexOf("um"))
+// console.log("Última posição de 'ia': "+texto.lastIndexOf("ia"))
+// console.log("Posição da palavra 'ciência': "+texto.indexOf("ciência"))
+// console.log("Posição da palavra 'métodos': "+texto.indexOf("métodos"))
+
+
