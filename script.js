@@ -59,3 +59,17 @@
 // }else{
 //     console.log("Login reaizado com sucesso!")
 // }
+
+// 6-
+// let notas = [3, 8, 6.5, 5, 8, 6, 7]
+// let soma = 0
+// for (let i = 0; i < notas.length; i++) {
+//     soma += notas[i]
+// }
+// let media = soma / 7
+// console.log("Média: " + media.toFixed(2))
+// if (media >= 6) {
+//     console.log("Aprovado");
+// } else {
+//     console.log("Reprovado");
+// }
