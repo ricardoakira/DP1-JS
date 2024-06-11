@@ -95,3 +95,8 @@
 // let numString = "8.75"
 // let numFloat = parseFloat(numString)
 // console.log(typeof numFloat)
+
+// 10-
+// Cookies: 4 Mb
+// LocalStorage: 5Mb
+// SessionStorage: pode variar de 5 a 10 Mb
