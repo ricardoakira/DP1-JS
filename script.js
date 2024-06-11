@@ -50,3 +50,12 @@
 // }else{
 //     console.log("Idoso")
 // }
+
+// 5-
+// let usuario = "admin"
+// let senha = "1234"
+// if(usuario != "admin" || senha != "1234"){
+//     console.log("Falha na autenticação!")
+// }else{
+//     console.log("Login reaizado com sucesso!")
+// }
