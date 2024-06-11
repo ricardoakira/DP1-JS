@@ -73,3 +73,13 @@
 // } else {
 //     console.log("Reprovado");
 // }
+
+// 7-
+let nome = document.querySelector("#nome")
+nome.textContent = "Ricardo"
+let idade = document.querySelector("#idade")
+idade.textContent = "18"
+let curso = document.querySelector("#curso")
+curso.textContent = "Engenharia de Software"
+let ano = document.querySelector("#ano")
+ano.textContent = "2024"
